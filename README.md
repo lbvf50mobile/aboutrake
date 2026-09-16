@@ -37,10 +37,10 @@ Tasks that generate these files may be skipped if the file already exists.
 ```
 
 Need to rewrite the docs. But first I will make a test. This doucmentation is
-harfull for a newbie, one line I was in the past. I coult no get a clue, what
+harfull for a newbie, an one like I was in the past. I coult no get a clue, what
 is Rake used for.
 
-Only After I read brillian sory from the Eric Raymond in "The Art of Unix
+Only After I read a brillian story from the Eric Raymond in "The Art of Unix
 Programming" - a got it. Rake is to run `generators` basing on filestaps. That
 was crusial for C workflow with compiling and linkig phases.
 
