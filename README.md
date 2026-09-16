@@ -11,8 +11,8 @@ So I start this tiny project to prove myself that Rake regenerates files based
 on their timestamp. And I goning to have some tiny tests.
 
 `one.txt` - first prerequesite  
-`two.txt` - second preprequesit
-`multiplexer.rb` - tool that add `one.txt` and `two.txt` 
+`two.txt` - second preprequesit  
+`multiplexer.rb` - tool that add `one.txt` and `two.txt`  
 `Rake` - the rake file that adds one.txt and two.txt and generate an answer  
 `result.txt` - the result itself  
 
