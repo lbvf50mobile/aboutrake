@@ -22,7 +22,7 @@ Rake will run or will not run a multiplexer. Ok Let's start. Yes! and even
 `multiplexer` itself may change.
 
 
-## That is I am against with (is it correct English, I do not care)
+## The documentation problem: not skip when exists, skip when too new! 
 
 
 Here is super opaqe explanation of Rake, the generation (running a task) may
@@ -45,7 +45,7 @@ Programming" - a got it. Rake is to run `generators` basing on filestaps. That
 was crusial for C workflow with compiling and linkig phases.
 
 The srting for the Rake-doc makes thinks to complicated, because it poorly
-written. Need to write more prescely lie:
+written. Need to write more prescely like this:
 
 ```
 Tasks that generage files my be skipped if prerequsistes are older then a
