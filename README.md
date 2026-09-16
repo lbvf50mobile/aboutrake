@@ -22,7 +22,7 @@ Rake will run or will not run a multiplexer. Ok Let's start. Yes! and even
 `multiplexer` itself may change.
 
 
-## That is I am gaints with (is it correct English, I do not care)
+## That is I am agaings with (is it correct English, I do not care)
 
 
 Here is super opaqe explanation of Rake,  the generation may be if file
@@ -44,7 +44,7 @@ As I planed
 1) Run and fall because of error.
 2) Run and have empty `result.txt`, but file exiest.
 3) Changed `multiplexer.rb` and it REGENERATE FILE.
-4) Run again and noting. Run many may times. Rake skips
+4) Run again and noting. Run many may times. Rake skips.
 5) Change `first.txt` and run `rake`. Rake fires, and REGENERATE FILE.
 
 Finally: Rake starts tasks if prerequisites are newer than a task file. Need
