@@ -24,7 +24,7 @@ Rake will run or will not run a multiplexer. Ok Let's start. Yes! and even
 
 ### Why Rake?
 
-We need Rake to manage situation when from first group of file we generate
+We need Rake to manage situation when from first group of files we generate
 second groupd, and from the second group of files we generage third one. To
 keep track of change times and automatically call generators - we use Rake.
 
