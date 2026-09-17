@@ -22,6 +22,17 @@ Rake will run or will not run a multiplexer. Ok Let's start. Yes! and even
 `multiplexer` itself may change.
 
 
+### Why Rake?
+
+We need Rake to manage situation when from first group of file we generate
+second groupd, and from the second group of files we generage third one. To
+keep track of change times and automatically call generators - we use Rake.
+
+That was an improtant question for me when I started to work with RoR in 2016.
+I have no clue, why to add one more layer of abstraction. Till I read
+explanation from Redmond's "Tha Art of Unix Programming".
+
+
 ## The documentation problem: not skip when exists, skip when too new! 
 
 
